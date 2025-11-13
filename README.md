@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/S4SxdrTS/Black-and-Blue-Neon-Cyber-Monday-Banner-1-Medium.jpg) <!-- Replace with your actual banner URL -->
+![Banner](https://i.ibb.co/FqzcSMcF/Black-and-Blue-Neon-Cyber-Monday-Banner-1-Large.jpg) <!-- Replace with your actual banner URL -->
 
 # 👋 Hi, I'm **Sajid Ahmed Sojib**  
 ### 🚀 Frontend Developer | MERN Stack Developer
