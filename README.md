@@ -2,7 +2,10 @@
 ![Banner](https://i.ibb.co/FqzcSMcF/Black-and-Blue-Neon-Cyber-Monday-Banner-1-Large.jpg) <!-- Replace with your actual banner URL -->
 
 # 👋 Hi, I'm **Sajid Ahmed Sojib**  
-### 🚀 Frontend Developer | MERN Stack Developer
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=38bdf8&center=true&width=500&lines=🚀+Frontend+Developer;💻+MERN+Stack+Developer;🌐+Full+Stack+Developer" alt="Typing SVG"/>
+
+
+
 
 ---
 
@@ -15,7 +18,7 @@ When I’m not coding, I’m sharpening my problem-solving skills through **DSA 
 
 ## 🔥 Current Activities  
 - 🚀 Exploring **Next.js** to enhance my frontend skills  
-- 💻 Working on a **Blood Donation** project  
+- 💻 Learning **PostgreSQL**  
 - 📚 Practicing **Data Structures & Algorithms**  
 - 🏆 Solving programming challenges on **Codeforces**  
 
@@ -25,6 +28,7 @@ When I’m not coding, I’m sharpening my problem-solving skills through **DSA 
 
 ### **💻 Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -33,6 +37,7 @@ When I’m not coding, I’m sharpening my problem-solving skills through **DSA 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -41,6 +46,8 @@ When I’m not coding, I’m sharpening my problem-solving skills through **DSA 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 ### **🛠 Tools & Platforms**
@@ -52,17 +59,39 @@ When I’m not coding, I’m sharpening my problem-solving skills through **DSA 
 ---
 
 ## 📊 GitHub Stats  
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajidSojib&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidSojib&layout=compact&theme=react)  
-![GitHub Streak](https://streak-stats.demolab.com?user=SajidSojib&theme=react&hide_border=true)
+
+<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SajidSojib&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=30,0f172a,1e293b&title_color=38bdf8&icon_color=22d3ee&text_color=cbd5e1)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=SajidSojib&theme=blue-green&hide_border=true&background=0f172a,1e293b,30,38bdf8,22d3ee,cbd5e1)
+
+   <!-- Top Languages -->
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SajidSojib&layout=compact&theme=blue-green&hide_border=true&bg_color=30,1e293b,0f172a&title_color=38bdf8&text_color=cbd5e1)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajid-ahmed-sojib/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sajid_ahmed09)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16VcvbPWcj/)  
-📧 **Email:** sajidahmed2401@gmail.com  
+## 📫 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajid-ahmed-sojib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/sajid_ahmed09">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:sajidahmed2401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/share/16VcvbPWcj/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
+
+
 💡 *"Always learning, always building — every project is a step closer to mastery."*
